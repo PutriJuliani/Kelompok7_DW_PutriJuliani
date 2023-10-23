@@ -1,11 +1,19 @@
 MedHub
+
 Kelompok-7-Desain-Web
+
 Putri Juliani - 4522210015
+
 Ihsan Nawawi - 4522210027
+
 Angelina Simbolon - 4522210044
+
 Gino Putra Widana - 4522210049
+
 Akhmad Rizaldy - 4522210050
+
 Muhamad Farhan - 4522210057
+
 Pemilihan nama "MedHub" untuk website bisa memiliki beberapa alasan yang kuat, tergantung pada tujuan dan konten dari website tersebut. Berikut beberapa alasan yang mungkin:
 
 Keterkaitan dengan Konten: Jika website Anda berfokus pada informasi atau layanan di bidang medis atau kesehatan, nama "MedHub" bisa memberikan kesan yang kuat bahwa website ini adalah pusat informasi atau sumber utama untuk semua hal yang berkaitan dengan kesehatan dan kedokteran.
